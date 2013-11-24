@@ -1,0 +1,8 @@
+source: ./src
+destination: ./dist
+name: "Gaurilla - User Guides"
+description: "Help articles for using Gaurilla"
+url: "http://guide.gaurilla.com"
+markdown: rdiscount
+permalink: pretty
+pygments: true
