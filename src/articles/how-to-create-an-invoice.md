@@ -35,7 +35,7 @@ Invoice is a document that you give to your customer that clearly states how muc
 
 9. In the **Others** column, mention if any other addition or deduction that needs to be done on the price like that of Courier, Discounts etc. For each *other*, there are three options, which precisely lets you control what has to be done.
     
-    **Pro Tip:** When applying a **_discount_**, you would choose options Subtract, Before Taxes and either Flat or Percentage as per need. Or when adding **_shipping charges_**, you would choose Add, After Taxes and most probably Flat.
+    > **Pro Tip:** When applying a **_discount_**, you would choose options Subtract, Before Taxes and either Flat or Percentage as per need. Or when adding **_shipping charges_**, you would choose Add, After Taxes and most probably Flat.
 
     ![slips-others](http://placehold.it/800x500)
 
@@ -47,23 +47,26 @@ Invoice is a document that you give to your customer that clearly states how muc
 
 12. Now, select the word notation, in which invoice would be created.
     
-    **Pro Tip:** Indian Notation includes notations like Lakhs, Crores, etc and Standard notation includes notations like Millions, Billions, etc.
+    > **Pro Tip:** Indian Notation includes notations like Lakhs, Crores, etc and Standard notation includes notations like Millions, Billions, etc.
 
     ![slips-adjustments](http://placehold.it/800x500)
 
 13. Your invoice is almost ready for the creation and you will see the total amount of your invoice in the right panel. Round off the total as per your wish using the options available and your invoice is ready!
     
-    **Pro Tip:** _None_ will not round off the amount, _Natural_ will round of naturally to nearest one, _Up_ will round of to next nearest one and _Down_ will round off to previous nearest one.
+    > **Pro Tip:** _None_ will not round off the amount, _Natural_ will round of naturally to nearest one, _Up_ will round of to next nearest one and _Down_ will round off to previous nearest one.
 
 14. Once done, click on **Publish** to see the invoice.
 
+    > **Pro Tip:** Send this customer a hand-written note to say thank you for the business. She'd feel nice. :)
+
     ![slips-publish](http://placehold.it/800x500)
 
-    ## High Fives! You just invoiced your first customer using Gaurilla.
-    **Pro Tip:** Send this customer a hand-written note to say thank you for the business. She'd feel nice. :)
+    ### High Fives! You just invoiced your first customer using Gaurilla.
 
 15. Once you have created your first invoice, you get several options on the top-right corner to act on the invoice.
     
-    **Pro Tip:** Using the envelope icon, you can send this invoice directly your client's inbox without even leaving Gaurilla. Go ahead, try it out.
+    > **Pro Tip:** Using the envelope icon, you can send this invoice directly your client's inbox without even leaving Gaurilla. Go ahead, try it out.
 
 16. The invoice we have just generated will appear in the **Slips** window for future reference and making payments.
+
+    > **Pro Tip:** Next time you can create an invoice right from the Dashboard. Simply click on **+ Invoice** from the dashboard and start invoicing.
