@@ -19,7 +19,7 @@ You can record any kind of money that comes in using this process. Whether it is
 
 	![income](http://placehold.it/800x500)
 
-	1. Either fill in the **name of the income** or select the **client** from which you have received this money. You can fil both too but at least one of them is required.
+	1. Either fill in the **name of the income** or select the **client** from which you have received this money. You can fill both too but at least one of them is required.
 
 		> **Pro Tip:** In case of a payment against an invoice, we recommend following process: [How to add payment against an invoice]()
 
