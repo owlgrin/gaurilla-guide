@@ -3,7 +3,7 @@ title: How to create an invoice
 description: Yay, time to ask for money!
 layout: article
 ---
-Invoice is a document that you give to your customer that clearly states how much she owes you, for what and on what terms. Creating a invoice in Gaurilla is very simple.
+Invoice is a document that you give to your customer that clearly states how much she owes you, for what and on what terms. Creating an invoice in Gaurilla is very simple.
 
 1. Login into your Gaurilla account and set the workspace in which you wish to generate an invoice.
 
