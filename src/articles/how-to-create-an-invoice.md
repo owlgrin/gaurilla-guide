@@ -29,7 +29,7 @@ Invoice is a document that you give to your customer that clearly states how muc
 
 7. Fill in the Gate Pass Number & Purchase Order Number with corresponding date (if needed).
 
-8. Now you need to fill in the items for which you are invoicing your client. You need to select the item(s) for which the current invoice is being generated followed by the description, price and the quantity. Or if this the item is not in the list, you can create a new item by clicking on **Create New** button. ([Click here to know how to add an item]()).
+8. Now you need to fill in the items for which you are invoicing your client. You need to select the item(s) for which the current invoice is being generated followed by the description, price and the quantity. Or if the the item is not in the list, you can create a new item by clicking on **Create New** button. ([Click here to know how to add an item]()).
 
     ![slips-items](http://placehold.it/800x500)
 
