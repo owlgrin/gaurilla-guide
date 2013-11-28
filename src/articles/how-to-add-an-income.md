@@ -9,15 +9,15 @@ You can record any kind of money that comes in using this process. Whether it is
 
 2. Click on the **Transactions** >> **Incomes** option from the main navigation bar in the left.
 
-	![income-navigation](http://placehold.it/800x500)
+	![incomes-navigation]({{site.url}}/images/income/incomes-navigation.png)
 
 3. Click on **New** button available at the top right corner.
 
-	![income-new](http://placehold.it/800x500)
+	![incomes-new]({{site.url}}/images/income/incomes-new.png)
 
 4. Now fill in the income form as follows:
 
-	![income](http://placehold.it/800x500)
+	![income-create]({{site.url}}/images/income/income-create.png)
 
 	1. Either fill in the **name of the income** or select the **client** from which you have received this money. You can fill both too but at least one of them is required.
 
