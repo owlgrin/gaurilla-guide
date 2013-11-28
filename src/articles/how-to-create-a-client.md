@@ -3,6 +3,8 @@ title: How to add a client
 description: Add people who would give you money ;)
 layout: article
 ---
+Clients are the people who would give you business. These are your customers.
+
 1. Login into your Gaurilla account and set the workspace where you wish to create a new client.
 
 2. Click on the **People** >> **Clients** from the main navigation on the left.
