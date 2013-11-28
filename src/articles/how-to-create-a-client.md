@@ -1,6 +1,6 @@
 ---
-title: How to add a client
-description: Add people who would give you money ;)
+title: How to create a client
+description: Store people who would give you money ;)
 layout: article
 ---
 Clients are the people who would give you business. These are your customers.

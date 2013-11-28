@@ -1,6 +1,6 @@
 ---
-title: How to add a vendor
-description: Add people to whom you would give your money :p
+title: How to create a vendor
+description: Store people to whom you would give your money :p
 layout: article
 ---
 Vendors are the people to whom you'd give business to. These can be the people form whom you buy raw material for your business or the people whose services you avail to keep your business running.
