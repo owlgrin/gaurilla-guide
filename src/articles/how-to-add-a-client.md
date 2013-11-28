@@ -19,8 +19,8 @@ layout: article
 
 	![client-create]()
 
-5. If you want to add any contact associated with this particular client write its **name** and **phone**/ **email**. Then, cliek on **Add** button to associate with this client.
+5. If you want to add any contact associated with this particular client write its **name** and **phone**/ **email**. Then, click on **Add** button to associate it with this client.
 	
-	**Pro Tip:** If you know any individual person at the client's company, it is highly recommended that you add this person as contact with the client as it will allow you to automatically send slips to this clients easily
+	**Pro Tip:** If you know any individual person at the client's company, it is highly recommended that you add this person as contact with the client as it will allow you to send slips to this clients easily.
 
 6. Click on **Create** button to save that client in your client list.
