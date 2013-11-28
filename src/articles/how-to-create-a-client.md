@@ -17,12 +17,12 @@ Clients are the people who would give you business. These are your customers.
 
 4. Now in the **New Client** pop up window, fill the **name** and other details like **address**, **city**, **state** and **PIN**.
 	
-	**Pro Tip:** Only **Name** is required, rest all is optional.
+	> **Pro Tip:** Only **Name** is required, rest all is optional.
 
 	![client-create]()
 
 5. If you want to add any contact associated with this particular client write its **name** and **phone**/ **email**. Then, click on **Add** button to associate it with this client.
 	
-	**Pro Tip:** If you know any individual person at the client's company, it is highly recommended that you add this person as contact with the client as it will allow you to send slips to this clients easily.
+	> **Pro Tip:** If you know any individual person at the client's company, it is highly recommended that you add this person as contact with the client as it will allow you to send slips to this clients easily.
 
 6. Click on **Create** button to save that client in your client list.

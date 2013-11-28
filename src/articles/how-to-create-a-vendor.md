@@ -17,12 +17,12 @@ Vendors are the people to whom you'd give business to. These can be the people f
 
 4. Now in the **New Vendor** pop up window, fill the **name** and other details like **address**, **city**, **state** and **PIN**.
 	
-	**Pro Tip:** Only **Name** is required, rest all is optional.
+	> **Pro Tip:** Only **Name** is required, rest all is optional.
 
 	![vendor-create]()
 
 5. If you want to add any contact associated with this particular vendor write its **name** and **phone**/ **email**. Then, click on **Add** button to associate it with this vendor.
 	
-	**Pro Tip:** If you know any individual person at the vendor's company, it is highly recommended that you add this person as contact with the vendor.
+	> **Pro Tip:** If you know any individual person at the vendor's company, it is highly recommended that you add this person as contact with the vendor.
 
 6. Click on **Create** button to save that vendor in your vendor list.
