@@ -9,15 +9,15 @@ Tax scheme is a group of taxes with one primary tax and multiple secondary taxes
 
 2. Click on the **Settings** >> **Taxes** to start managing taxes.
 
-	![taxes-navigation]({{site.url}}/images/taxes/taxes-navigation.png)
+	![taxes-navigation]({{site.url}}/images/tax/taxes-navigation.png)
 
 3. Click on **New** button in the top right corner of the window.
 
-	![taxes-new]({{site.url}}/images/taxes/taxes-new.png)
+	![taxes-new]({{site.url}}/images/tax/taxes-new.png)
 
 4. A pop up window opens that lets you to create new scheme.
 
-	![tax-create]({{site.url}}/images/taxes/tax-create.png)
+	![tax-create]({{site.url}}/images/tax/tax-create.png)
 
 	1. Fill in the **name** of the new tax scheme.
 
