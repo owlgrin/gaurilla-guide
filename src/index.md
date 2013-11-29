@@ -16,6 +16,7 @@ layout: page
 - [How to create a proforma invoice]({{site.url}}/articles/how-to-create-a-proforma-invoice)
 - [How to create a client]({{site.url}}/articles/how-to-create-a-client)
 - [How to create a vendor]({{site.url}}/articles/how-to-create-a-vendor)
+- [How to create an item]({{site.url}}/articles/how-to-create-an-item)
 - [How to create a tax scheme]({{site.url}}/articles/how-to-create-a-tax-scheme)
 
 - - -
