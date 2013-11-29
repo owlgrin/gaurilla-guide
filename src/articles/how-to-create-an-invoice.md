@@ -23,13 +23,13 @@ Invoice is a document that you give to your customer that clearly states how muc
 
     ![invoice-prefilled]({{site.url}}/images/invoice/invoice-prefilled.png)
 
-6. Select the client you are dealing with in context of this particular invoice or you can add a new client by clicking on the *Create New* button. ([Click here to know how to add a client/customer]()).
+6. Select the client you are dealing with in context of this particular invoice or you can add a new client by clicking on the *Create New* button. ([Click here to know how to create a client/customer]({{site.url}}/articles/how-to-create-a-client)).
 
     ![invoice-client]({{site.url}}/images/invoice/invoice-client.png)
 
 7. Fill in the Gate Pass Number & Purchase Order Number with corresponding date (if needed).
 
-8. Now you need to fill in the items for which you are invoicing your client. You need to select the item(s) for which the current invoice is being generated followed by the description, price and the quantity. Or if the the item is not in the list, you can create a new item by clicking on **Create New** button. ([Click here to know how to add an item]()).
+8. Now you need to fill in the items for which you are invoicing your client. You need to select the item(s) for which the current invoice is being generated followed by the description, price and the quantity. Or if the the item is not in the list, you can create a new item by clicking on **Create New** button. ([Click here to know how to create an item]({{site.url}}/articles/how-to-create-an-item)).
 
     ![invoice-items]({{site.url}}/images/invoice/invoice-items.png)
 
@@ -43,7 +43,7 @@ Invoice is a document that you give to your customer that clearly states how muc
 
     ![invoice-terms]({{site.url}}/images/invoice/invoice-terms.png)
 
-11. In **Adjustments** section select a tax scheme to apply on current invoice or add new tax scheme by clicking on the **Create New** button over the drop-down menu. ([Click here to know how to add tax schemes]())
+11. In **Adjustments** section select a tax scheme to apply on current invoice or add new tax scheme by clicking on the **Create New** button over the drop-down menu. ([Click here to know how to create a tax scheme]({{site.url}}/articles/how-to-create-a-tax-scheme)).
 
 12. Now, select the word notation, in which invoice would be created.
     
