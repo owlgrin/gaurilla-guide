@@ -23,6 +23,6 @@ Items are the things that you are selling for your business. They can either be 
 
 5. Now, select the type of item you are creating - whether it is a **Service** or **Product**.
 
-	> **Pro Tip:** There is no tracking of stock for services and some stock is needed to be there for products.
+	> **Pro Tip:** There is no tracking of stock for services and at least some stock is needed to be there for products.
 
 6. Click on **Create** to save the newly created item.
