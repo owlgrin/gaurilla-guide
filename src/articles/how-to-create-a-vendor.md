@@ -9,17 +9,17 @@ Vendors are the people to whom you'd give business to. These can be the people f
 
 2. Click on the **People** >> **Vendors** from the main navigation on the left.
 	
-	![vendors-navigation]()
+	![vendors-navigation]({{site.url}}/images/vendor/vendors-navigation.png)
 
 3. Click on the **New** at the top right corner.
 
-	![vendors-new]()
+	![vendors-new]({{site.url}}/images/vendor/vendors-new.png)
 
 4. Now in the **New Vendor** pop up window, fill the **name** and other details like **address**, **city**, **state** and **PIN**.
 	
 	> **Pro Tip:** Only **Name** is required, rest all is optional.
 
-	![vendor-create]()
+	![vendor-create]({{site.url}}/images/vendor/vendor-create.png)
 
 5. If you want to add any contact associated with this particular vendor write its **name** and **phone**/ **email**. Then, click on **Add** button to associate it with this vendor.
 	
