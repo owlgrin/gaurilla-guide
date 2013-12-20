@@ -18,7 +18,9 @@ layout: page
 - [How to create a vendor]({{site.url}}/articles/how-to-create-a-vendor)
 - [How to create an item]({{site.url}}/articles/how-to-create-an-item)
 - [How to create a tax scheme]({{site.url}}/articles/how-to-create-a-tax-scheme)
-
+- [How to view, edit or delete an invoice]({{site.url}}/articles/how-to-view-edit-or-delete-an-invoice)
+- [How to view, edit or delete a quote/estimate]({{site.url}}/articles/how-to-view-edit-or-delete-a-quote-or-estimate)
+- [How to view, edit or delete a proforma invoice]({{site.url}}/articles/how-to-view-edit-or-delete-a-proforma-invoice)
 - - -
 
 ### Transactions
