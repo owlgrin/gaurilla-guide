@@ -19,7 +19,7 @@ These are indeed basic features(or tools) for a quote to be available as an opti
 
 	![slip-filter]()
 
-5. After locating the particular performa-invoice, look for options on the right side bottom corner of that particular quote.
+5. After locating the particular quote, look for options on the right side bottom corner of that particular quote.
 
 6. Click on **View** to see the previously created quote.
 

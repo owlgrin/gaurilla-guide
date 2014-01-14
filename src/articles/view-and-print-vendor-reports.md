@@ -20,3 +20,5 @@ You can view reports of all transactions of a vendor and print that report as we
 	> **Pro Tip:** You can toggle between detailed and summary report using the same button on same window. 
 
 6. Click on sky blue coloured **Print** button, adjacent to **Summary Report** button, to print the generated report.
+
+7. Print the clients list with the help of print window and altering the layout, margins etc if desired.

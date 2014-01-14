@@ -20,3 +20,5 @@ You can view reports of all expenses by a category and print it as well if neede
 	> **Pro Tip:** You can toggle between detailed and summary report using the same button on same window. 
 
 6. Click on sky blue coloured **Print** button, adjacent to **Summary Report** button, to print the generated report.
+
+7. Print the clients list with the help of print window and altering the layout, margins etc if desired.
