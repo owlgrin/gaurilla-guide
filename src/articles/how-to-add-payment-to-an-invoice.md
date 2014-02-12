@@ -1,5 +1,5 @@
 ---
-title: Adding payment to an invoice
+title: How to add payment to an invoice
 description: Your good client paid you. Let's record this income!
 layout: article
 ---
