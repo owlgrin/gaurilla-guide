@@ -1,16 +1,18 @@
 ---
 title: How to change password
-description: Change the password whenever you feel that its required
+description: Changing your password regularly is first step to keep your account secure
 layout: article
 ---
-You can change the login password of your account if needed.
+It's tough to come with a hard-to-guess password, but in case you come up with one. Here's how you can change it.
 
-1. Login into your Gaurilla account and set the workspace.
+1. Login into your Gaurilla account and set any workspace.
 
-2. Click on **Settings** >> **Password** option from main navigation bar in the left side.
+2. Click on **Settings** >> **Profile** option from main navigation bar in the left side.
 
-3. Write your current password in the **Current Password** field.
+3. Scroll to the **Password** section.
+
+4. Fill in your current password in the **Current Password** field.
 
 5. Then fill your new password twice in the **New Password** and **Confirm Password** fields respectively.
 
-6. Click on **Change Password** button to apply changes.
+6. Click on **Change Password** button to apply changes. Voila! Done.
