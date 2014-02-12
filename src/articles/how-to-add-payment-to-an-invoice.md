@@ -15,8 +15,6 @@ It is a good habit to keep track of how much much you have earned and how much i
 
 3. For a healthy record-keeping, please fill in as many things you can.
 
-	![income-create]({{site.url}}/images/income/income-create.png)
-
 	1. Either fill in the **name of the income** or select the **client** from which you have received this money. You can fill both too but at least one of them is required.
 
 	2. Select the **mode** of income & provide a suitable **reference number**.
