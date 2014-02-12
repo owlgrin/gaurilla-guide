@@ -1,29 +1,23 @@
 ---
 title: Adding payment to an invoice
-description: To make the payment against an invoice
+description: Your good client paid you. Let's record this income!
 layout: article
 ---
-To make the payment against the invoice for keeping track of how much payment is received and left of an invoice.
+It is a good habit to keep track of how much much you have earned and how much is expected. This lets you do just that.
 
-1. Login into your Gaurilla account and set the Workspace.
+1. Login into your Gaurilla account and set the workspace.
 
-2. Click on **Slips** icon from the left sidebar.
+2. You can add an income against an invoice in two ways:
 
-	![slip-navigation]()
+	1. **Immediate Payment**: We understand that you might have clients who pay you immediately after receiving your invoice. For these moments, click **Pay** button in the top-right corner right after publishing an invoice.
 
-3. You can add an income against an invoice in two ways:
+	2. Or, if you receive deffered payments, you can come back to **Slips**, and then filter out the invoice against which you received the payment and then click on **More** >> **Pay** in the bottom-right corner.
 
-	1. You can add an income against an invoice at the time you have generated that particular invoice, simply by clicking on the **Pay** button at extreme right top of the invoice.
-
-	2. In the **Slips** window, click on the **Pay** which is available for each invoice at its bottom extreme right.
-
-3. Now fill in the income form as follows:
+3. For a healthy record-keeping, please fill in as many things you can.
 
 	![income-create]({{site.url}}/images/income/income-create.png)
 
 	1. Either fill in the **name of the income** or select the **client** from which you have received this money. You can fill both too but at least one of them is required.
-
-		> **Pro Tip:** Client will be prominent in this case, click on **Add New** for new client. **Name of income** is optional.
 
 	2. Select the **mode** of income & provide a suitable **reference number**.
 
