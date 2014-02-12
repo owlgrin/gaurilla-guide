@@ -16,6 +16,7 @@ layout: page
 - [How to create an invoice]({{site.url}}/articles/how-to-create-an-invoice)
 - [How to create a quote]({{site.url}}/articles/how-to-create-a-quote)
 - [How to create a proforma invoice]({{site.url}}/articles/how-to-create-a-proforma-invoice)
+- [How to download invoice as PDF]({{site.url}}/articles/how-to-download-invoice-as-pdf)
 - [How to create a client]({{site.url}}/articles/how-to-create-a-client)
 - [How to create a vendor]({{site.url}}/articles/how-to-create-a-vendor)
 - [How to create an item]({{site.url}}/articles/how-to-create-an-item)
