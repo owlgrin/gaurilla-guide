@@ -1,29 +1,18 @@
 ---
 title: How to view, edit and delete a quote
-description: To view, edit and delete your already created quotes   
+description: Feel the need to make changes to quote?
 layout: article
 ---
-These are indeed basic features(or tools) for a quote to be available as an option for managing quotes.
+Nothing is permanent, and so are your quotes. ;) Gaurilla lets you make changes to your already created quotes easily.
 
-1. Login into your Gaurilla account & set the workspace.
+1. Login into your Gaurilla account and set the workspace.
 
 2. Click on **Slips** icon which is on the left sidebar.
 
-	![slip-navigation]()
+3. Click on **Quote** from the blue colored options to view all the quotes based on the filtered details.
 
-3. Click on **Quote** from the blue colored options to select the type of **slip** you wish to view.
+4. You can zero in on a particular quote using the filter options given on the left.
 
-	![slip-type-navigation]()
+5. Once you've found the quote you want to work with, find the options to View, Edit and Delete in the bottom-right corner of it.
 
-4. Refine your search by selecting the client and/or other details of **slip**.
-
-	![slip-filter]()
-
-5. After locating the particular quote, look for options on the right side bottom corner of that particular quote.
-
-6. Click on **View** to see the previously created quote.
-
-7. Click on **Edit** to make changes if any in the quote.
-
-8. Click on **Delete** to remove the quote from the database permanently.
-
+	> **Pro Tip:** Option to Edit and Delete lies under the **More** drop down.
