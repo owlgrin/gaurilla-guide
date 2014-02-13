@@ -42,3 +42,4 @@ layout: page
 ### Reporting
 
 - [Client Report - who owes you how much]({{site.url}}/articles/how-to-generate-client-report)
+- [Vendor Report - how much you owe to whom]({{site.url}}/articles/how-to-generate-vendor-report)
