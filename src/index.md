@@ -7,6 +7,7 @@ layout: page
 
 - [Understanding the Dashboard]({{site.url}}/articles/understanding-the-dashboard)
 - [How to add a new business]({{site.url}}/articles/how-to-add-a-new-company)
+- [How to switch between the businesses]({{site.url}}/articles/how-to-switch-between-the-businesses)
 - [How to change your password]({{site.url}}/articles/how-to-change-password)
 
 - - -

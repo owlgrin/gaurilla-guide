@@ -1,16 +1,16 @@
 ---
 title: How to switch between businesses
-description: Switch between businesses in just 5 steps
+description: Multitasking for multitaskers
 layout: article
 ---
-You can switch from one business to another simply by following steps mentioned below.
+Switching from one business to another is as simple as click, click, click. Done!
 
-1. Click on the dashboard icon which is a **G** on the top left corner.
+1. Click on the dashboard icon, which is the red **G** in the top left corner.
 
-2. Click on **Change** which is adjacent to the Name of your business at the top right corner.
+2. The top-right corner on dashboard shows you the current workspace you are working in. Click on the **Change** button right next to it to switch to different workspace.
 
-3. From **Workspace** screen, select the company whose account you wish to manage or click on **Create New** to add a new company.
+3. Here, you can select a different business to work in. Or if you prefer creating a new business, [you can do that as well]({{site.url}}/articles/how-to-add-a-new-company).
 
-4. Select the Financial Year from the drop-down or add a new Financial Year by clicking on **Add New**.
+4. Click on **Set Workspace** to switch to the new workspace.
 
-5. Click on **Set Workspace** to switch to new business.
+*Note: Moving forward, we may remove the intermediate workspace selection screen, and hence switching between different business would be just one click. The guide will be updated when it'd happen!*
