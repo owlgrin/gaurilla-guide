@@ -44,3 +44,4 @@ layout: page
 - [Client Report - who owes you how much]({{site.url}}/articles/how-to-generate-client-report)
 - [Vendor Report - how much you owe to whom]({{site.url}}/articles/how-to-generate-vendor-report)
 - [Money Account Report - what happened in which money account]({{site.url}}/articles/how-to-generate-money-account-report)
+- [Income by Client Report - your earnings, grouped by clients]({{site.url}}/articles/how-to-generate-income-by-client-report)
