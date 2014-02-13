@@ -46,3 +46,4 @@ layout: page
 - [Money Account Report - what happened in which money account]({{site.url}}/articles/how-to-generate-money-account-report)
 - [Income by Client Report - your earnings, grouped by clients]({{site.url}}/articles/how-to-generate-income-by-client-report)
 - [Income by Category Report - your earnings, grouped by categories]({{site.url}}/articles/how-to-generate-income-by-category-report)
+- [Expenses by Vendor Report - your expenses, grouped by vendors]({{site.url}}/articles/how-to-generate-expenses-by-vendor-report)
