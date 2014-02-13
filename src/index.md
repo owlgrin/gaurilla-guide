@@ -48,3 +48,4 @@ layout: page
 - [Income by Category Report - your earnings, grouped by categories]({{site.url}}/articles/how-to-generate-income-by-category-report)
 - [Expenses by Vendor Report - your expenses, grouped by vendors]({{site.url}}/articles/how-to-generate-expenses-by-vendor-report)
 - [Expenses by Category Report - your expenses, grouped by categories]({{site.url}}/articles/how-to-generate-expenses-by-category-report)
+- [General Ledger - everything that happened in your business]({{site.url}}/articles/how-to-generate-general-ledger)
