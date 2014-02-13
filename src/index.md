@@ -36,3 +36,9 @@ layout: page
 - [How to add an income]({{site.url}}/articles/how-to-add-an-income)
 - [How to add an expense]({{site.url}}/articles/how-to-add-an-expense)
 - [How to add payment to an invoice]({{site.url}}/articles/how-to-add-payment-to-an-invoice)
+
+---
+
+### Reporting
+
+- [Client Report - who owes you how much]({{site.url}}/articles/how-to-generate-client-report)
