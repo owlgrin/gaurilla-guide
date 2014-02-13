@@ -1,6 +1,6 @@
 ---
 title: How to add an expense
-description: Keeping track of the moey that goes out
+description: Keeping track of the money that goes out
 layout: article
 ---
 Keeping track of what goes out is equally important as tracking what comes in. This process lets you record an expense quickly.
