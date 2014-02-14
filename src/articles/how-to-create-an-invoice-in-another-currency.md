@@ -1,29 +1,19 @@
 ---
 title: How to create an invoice in another currency
-description: Inovice your clients in their respective currency
+description: Send your clients invoices in their currencies
 layout: article
 ---
-You can create invoice in currency in which your client deals
+Why bother your clients to all the conversion? Also, why even bother yourself? Let Mr Gaurilla do it for you.
+
+1. Login into your Gaurilla account and set the workspace.
+
+2. Click on the **+ Invoice** button from the Dashboard to start creating a new invoice.
+
+3. Fill in the details for the invoice, you'd like to the created. Just like you'd normally do when [creating an invoice]({{site.url}}/articles/how-to-create-an-invoice).
+
+4. Just before the total, you'd see area to change the currency of the invoice. Select your preferred currency and enter today's exchange rate for that currency.
+
+	> **Pro Tip:** Exchange rate is the rate at which foreign currency will convert into your base currency. For example, if your base currency is INR (Indian National Rupees) and you are invoicing in USD (US Dollars), this rate is the value of 1 USD in INR. Google **exchange rate *base currency* to *foreign currency*** and you'd get to know what to fill in.
 
 
-1. Login into your Gaurilla account and set the workspace in which you wish to generate an invoice.
-
-2. As you land on the dashboard with all sort of options around you, click on the **Slips** button which you will find just below the dashboard icon (the red G).
-
-    ![slips-navigation]({{site.url}}/images/slip/slips-navigation.png)
-
-3. At the top right corner the **New** button is what you are looking for in order to generate an invoice.
-
-    ![slips-new]({{site.url}}/images/slip/slips-new.png)
-
-4. The new invoice window will have all the options to enter all the details which you need to specify in order to generate your invoice.
-
-    ![slip-create]({{site.url}}/images/slip/slip-create.png)
-
-5. Now follow steps you usually do while creating (normal or recurring) invoice.
-
-6. Once you are done, whether creating normal invoice or recurring invoice, check the **Currency** option in the **Publish** form. It is by default set to your accounting currency. You can select the currency fron the drop down menu in which you want to create invoice. In **Rate** field you have to fill the exchange rate.
-
-	>**Pro Tip:** Fill the current exchange rate if possible. 
-
-7. Once done, click on **Publish** button and the invoice (normal or recurring) will be created in that particular currency.
+5. Once done, click on **Publish** button and the invoice (normal or recurring) will be created in that particular currency. All your accounts will be updated in your base currency only.
