@@ -13,4 +13,4 @@ If your business sees similar kind of invoices going to your clients, making the
 
 4. Click on **More** >> **Create a copy** in the bottom-right corner of the slip and the confirm your action by clicking on **Yes**.
 
-5. A copy will be created and you will be send to view it. You can then click on **Edit** to make some changes (if any), or you're done!
+5. A copy will be created and the newly created copy will open up. You can then click on **Edit** to make some changes (if any), or you're done!
