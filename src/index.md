@@ -21,13 +21,30 @@ layout: page
 - [How to view, edit and delete a quote]({{site.url}}/articles/how-to-view-edit-delete-a-quote)
 - [How to view, edit and delete a proforma invoice]({{site.url}}/articles/how-to-view-edit-delete-a-proforma-invoice)
 - [How to download invoice as PDF]({{site.url}}/articles/how-to-download-invoice-as-pdf)
-- [How to create a client]({{site.url}}/articles/how-to-create-a-client)
-- [How to create a vendor]({{site.url}}/articles/how-to-create-a-vendor)
-- [How to create an item]({{site.url}}/articles/how-to-create-an-item)
-- [How to create a tax scheme]({{site.url}}/articles/how-to-create-a-tax-scheme)
+- [How to schedule an invoice for a particular date]({{site.url}}/articles/how-to-schedule-an-invoice-for-a-particular-date)
+- [How to schedule a recurring invoice]({{site.url}}/articles/how-to-schedule-a-recurring-invoice)
+- [How to create an invoice in another currency]({{site.url}}/articles/how-to-create-an-invoice-in-another-currency)
+- [How to clone an invoice, quote or proforma invoice]({{site.url}}/articles/how-to-clone-an-invoice-quote-proforma-invoice)
+- [How to convert a quote or proforma invoice into an invoice]({{site.url}}/articles/how-to-convert-a-quote-or-proforma-invoice-into-an-invoice)
 - [How to add or edit default terms in invoice]({{site.url}}/articles/how-to-add-or-edit-terms)
 - [How to customize your invoices]({{site.url}}/articles/how-to-customize-invoice)
 - [How to send an invoice as an email]({{site.url}}/articles/how-to-send-an-invoice-as-an-email)
+
+---
+
+### People
+
+- [How to create a client]({{site.url}}/articles/how-to-create-a-client)
+- [How to get client console]({{site.url}}/articles/how-to-get-client-console)
+- [How to grant access to clients for console]({{site.url}}/articles/how-to-grant-access-to-clients-for-console)
+- [How to create a vendor]({{site.url}}/articles/how-to-create-a-vendor)
+
+---
+
+### Extras
+
+- [How to create an item]({{site.url}}/articles/how-to-create-an-item)
+- [How to create a tax scheme]({{site.url}}/articles/how-to-create-a-tax-scheme)
 
 - - -
 

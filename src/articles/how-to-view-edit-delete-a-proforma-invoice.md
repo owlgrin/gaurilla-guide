@@ -1,18 +1,29 @@
 ---
 title: How to view, edit and delete a proforma invoice
-description: Feel the need to make changes to proforma invoices?
+description: To view, edit and delete your already created proforma-invoices   
 layout: article
 ---
-Nothing is permanent, and so are your proforma invoices. ;) Gaurilla lets you make changes to your already created proforma invoices easily.
+These are indeed basic features(or tools) for a proforma invoice to be available as an option for managing proforma-invoices.
 
-1. Login into your Gaurilla account and set the workspace.
+1. Login into your Gaurilla account & set the workspace.
 
 2. Click on **Slips** icon which is on the left sidebar.
 
-3. Click on **Proforma Invoice** from the blue colored options to view all the proforma invoices based on the filtered details.
+	![slip-navigation]()
 
-4. You can zero in on a particular proforma invoice using the filter options given on the left.
+3. Click on **proforma Invoice** from the blue colored options to select the type of **slip** you wish to view.
 
-5. Once you've found the proforma invoice you want to work with, find the options to View, Edit and Delete in the bottom-right corner of it.
+	![slip-type-navigation]()
 
-	> **Pro Tip:** Option to Edit and Delete lies under the **More** drop down.
+4. Refine your search by selecting the client and/or other details of **slip**.
+
+	![slip-filter]()
+
+5. After locating the particular proforma-invoice, look for options on the right side bottom corner of that particular proforma invoice.
+
+6. Click on **View** to see the previously created proforma invoice.
+
+7. Click on **Edit** to make changes if any in the proforma invoice.
+
+8. Click on **Delete** to remove the proforma invoice from the database permanently.
+
