@@ -28,6 +28,7 @@ layout: page
 - [How to convert a quote or proforma invoice into an invoice]({{site.url}}/articles/how-to-convert-a-quote-or-proforma-invoice-into-an-invoice)
 - [How to create a client]({{site.url}}/articles/how-to-create-a-client)
 - [How to get client console]({{site.url}}/articles/how-to-get-client-console)
+- [How to grant access to clients for console]({{site.url}}/articles/how-to-grant-access-to-clients-for-console)
 - [How to create a vendor]({{site.url}}/articles/how-to-create-a-vendor)
 - [How to create an item]({{site.url}}/articles/how-to-create-an-item)
 - [How to create a tax scheme]({{site.url}}/articles/how-to-create-a-tax-scheme)
