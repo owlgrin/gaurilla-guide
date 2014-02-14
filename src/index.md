@@ -24,6 +24,7 @@ layout: page
 - [How to schedule an invoice for a particular date]({{site.url}}/articles/how-to-schedule-an-invoice-for-a-particular-date)
 - [How to schedule a recurring invoice]({{site.url}}/articles/how-to-schedule-a-recurring-invoice)
 - [How to create an invoice in another currency]({{site.url}}/articles/how-to-create-an-invoice-in-another-currency)
+- [How to clone an invoice, quote or proforma invoice]({{site.url}}/articles/how-to-clone-an-invoice-quote-proforma-invoice)
 - [How to create a client]({{site.url}}/articles/how-to-create-a-client)
 - [How to create a vendor]({{site.url}}/articles/how-to-create-a-vendor)
 - [How to create an item]({{site.url}}/articles/how-to-create-an-item)
