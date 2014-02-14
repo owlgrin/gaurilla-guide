@@ -23,4 +23,4 @@ You can schedule an invoice in advance, so that it can be created automatically 
 
 6. Once done, click on **Publish** button and your invoice will be sceduled.
 
-	> **Pro Tip:** Get a client console, and grant access to your clients to your console, so that they would automatically see the generated invoice in their account.
+	> **Pro Tip:** [Get a client console]({{site.url}}/articles/how-to-get-client-console), and [grant access to your clients]({{site.url}}/articles/how-to-grant-access-to-clients-for-console) to your console, so that they would automatically see the generated invoice in their account.
