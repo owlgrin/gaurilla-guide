@@ -21,6 +21,7 @@ layout: page
 - [How to view, edit and delete a quote]({{site.url}}/articles/how-to-view-edit-delete-a-quote)
 - [How to view, edit and delete a proforma invoice]({{site.url}}/articles/how-to-view-edit-delete-a-proforma-invoice)
 - [How to download invoice as PDF]({{site.url}}/articles/how-to-download-invoice-as-pdf)
+- [How to schedule an invoice for a particular date]({{site.url}}/articles/how-to-schedule-an-invoice-for-a-particular-date)
 - [How to create a client]({{site.url}}/articles/how-to-create-a-client)
 - [How to create a vendor]({{site.url}}/articles/how-to-create-a-vendor)
 - [How to create an item]({{site.url}}/articles/how-to-create-an-item)
