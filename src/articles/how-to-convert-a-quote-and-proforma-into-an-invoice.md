@@ -25,5 +25,5 @@ You can convert as much quote/proforma into invoice simply in few steps without 
 
 	2. Click on **Yes** to convert it into invoice.
 
-6. A new invoice will be created and you check it by clicking on **Invoice** option.
+6. A new invoice will be created and you can check it by clicking on **Invoice** option.
 

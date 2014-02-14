@@ -44,7 +44,7 @@ You can make an invoice recurs for a particular number of times and duration by 
 
 			> **Note:** 1. End date should be later than start date.
 
-						2. If end date is before the next recurrence date then next recurrence will happen on that end date instead of next recurrence date and will not consider any further dates.
+						2. If end date is before the next recurrence date then recurrecnce will stop on that date and next recurrence will not happen.
 
 		2. If you select **After count** option in the drop down menu then an input field will be visible to you just below it in which you have to enter the number of times invoice should recur.
 

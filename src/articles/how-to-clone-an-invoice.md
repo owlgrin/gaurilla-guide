@@ -25,3 +25,5 @@ You can create as much copy as you want of an invoice without filling the invoic
 
 	2. Click on **Yes** to copy the invoice.
 
+6. A new cloned invoice will be created with present date.
+
