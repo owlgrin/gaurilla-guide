@@ -13,7 +13,11 @@ It is a good habit to keep track of how much much you have earned and how much i
 
 	2. Or, if you receive deffered payments, you can come back to **Slips**, and then filter out the invoice against which you received the payment and then click on **More** >> **Pay** in the bottom-right corner.
 
+		![invoice-pay]({{site.url}}/images/slips/pay.png)
+
 3. For a healthy record-keeping, please fill in as many things you can.
+
+	![invoice-income-create]({{site.url}}/images/transactions/income-new-modal.png)
 
 	1. Either fill in the **name of the income** or select the **client** from which you have received this money. You can fill both too but at least one of them is required.
 

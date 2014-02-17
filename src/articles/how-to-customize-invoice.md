@@ -9,7 +9,11 @@ Gaurilla allows you to customize your invoices by letting you add your own logo,
 
 2. Click on **Settings** >> **Layout** option from main navigation bar on the left side.
 
+	![layout-navigation]({{site.url}}/images/navigation/settings.png)
+
 3. If it is first time, don't forget to upload a logo of your company. Additionally, you can edit any fields present there.
+
+	![layout-form]({{site.url}}/images/settings/layout.png)
 
 	> **Pro Tip:** To keep you old invoices in tact as they are, these changes will take effect for the invoices you'll create from now.
 

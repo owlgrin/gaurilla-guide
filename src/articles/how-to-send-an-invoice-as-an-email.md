@@ -9,11 +9,19 @@ We all have a hard time managing email. Let's have one less email to manage. You
 
 2. Go to **Slips** option of main navigation bar in the left side.
 
+	![slip-navigation]({{site.url}}/images/navigation/slips.png)
+
 3. Click on **View** option of the particular slip which you wish to send as an e-mail.
+
+	![slip-view]({{site.url}}/images/slips/view-edit-delete.png)
 
 4. In the top-right corner, you'll see an envelope icon, click on it to send the invoice as email.
 
+	![slip-email]({{site.url}}/images/slips/email.png)
+
 5. Send the email as follows:
+
+	![slip-email-form]({{site.url}}/images/slips/email-modal.png)
 
 	1. If there are people in the invoice, they will be listed out for you select one or more recepients.
 

@@ -9,7 +9,11 @@ Gaurilla makes it super-easy to manage all your businesses under one single acco
 
 2. Click on **Create New** option in front of **Company**.
 
+	![company-new-navigation]({{site.url}}/images/workspace/company-new-navigation.png)
+
 3. Now fill the details as follows:
+
+	![company-new-modal]({{site.url}}/images/workspace/company-new-modal.png)
 
 	1. Fill in the **company name**, which you want to add to your account.
 

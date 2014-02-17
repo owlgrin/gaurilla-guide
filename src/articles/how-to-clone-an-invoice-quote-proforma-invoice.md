@@ -9,8 +9,14 @@ If your business sees similar kind of invoices going to your clients, making the
 
 2. As you land on the dashboard with all sort of options around you, click on the **Slips** button which you will find just below the dashboard icon (the red G).
 
+	![slip-navigation]({{site.url}}/images/navigation/slips.png)
+
 3. Filter the invoice, quote or proforma invoice and locate the slip you want to clone.
 
+	![slip-filter]({{site.url}}/images/slips/filter.png)
+
 4. Click on **More** >> **Create a copy** in the bottom-right corner of the slip and the confirm your action by clicking on **Yes**.
+
+	![slip-clone]({{site.url}}/images/slips/clone.png)
 
 5. A copy will be created and the newly created copy will open up. You can then click on **Edit** to make some changes (if any), or you're done!
