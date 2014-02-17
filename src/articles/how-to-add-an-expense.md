@@ -9,15 +9,15 @@ Keeping track of what goes out is equally important as tracking what comes in. T
 
 2. Click on the **Transactions** >> **Expenses** option from the main navigation bar in the left.
 
-	![expenses-navigation]({{site.url}}/images/expense/expenses-navigation.png)
+	![expenses-navigation]({{site.url}}/images/navigation/transactions.png)
 
 3. Click on **New** button available at the top right corner.
 
-	![expenses-new]({{site.url}}/images/expense/expenses-new.png)
+	![expenses-new]({{site.url}}/images/transactions/expense-filter-new.png)
 
 4. Now fill in the expense form as follows:
 
-	![expense-create]({{site.url}}/images/expense/expense-create.png)
+	![expense-create]({{site.url}}/images/transactions/expense-new-modal.png)
 
 	1. Either fill in the **name of the expense** or select the **vendor** from which you have received this money. You can fill both too but at least one of them is required.
 

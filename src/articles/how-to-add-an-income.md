@@ -9,15 +9,15 @@ You can record any kind of money that comes in using this process. Whether it is
 
 2. Click on the **Transactions** >> **Incomes** option from the main navigation bar in the left.
 
-	![incomes-navigation]({{site.url}}/images/income/incomes-navigation.png)
+	![incomes-navigation]({{site.url}}/images/navigation/transactions.png)
 
 3. Click on **New** button available at the top right corner.
 
-	![incomes-new]({{site.url}}/images/income/incomes-new.png)
+	![incomes-new]({{site.url}}/images/transactions/income-filter-new.png)
 
 4. Now fill in the income form as follows:
 
-	![income-create]({{site.url}}/images/income/income-create.png)
+	![income-create]({{site.url}}/images/transactions/income-new-modal.png)
 
 	1. Either fill in the **name of the income** or select the **client** from which you have received this money. You can fill both too but at least one of them is required.
 

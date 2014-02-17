@@ -15,6 +15,8 @@ With Gaurilla, you can claim your own branded client console. Using a client con
 
 3. Click on it and a small window will pop up asking you the username yau want to claim. Please note that this username cannot be changed in future.
 
+	![console-modal]({{site.url}}/images/dashboard/console-modal.png)
+
 	> **Pro Tip:** It gives a good sense to your clients if the username is similar to your brand.
 
 4. Once done, you will get a branded client console for that particular company. Now, [grant access to your clients]({{site.url}}/articles/how-to-grant-access-to-clients-for-console) whom you want to have access to your console.

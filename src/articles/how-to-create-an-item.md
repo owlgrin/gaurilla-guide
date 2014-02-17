@@ -9,15 +9,15 @@ Items are the things that you are selling for your business. They can either be 
 
 2. Click on the **Items** icon from the main navigation on the left.
 
-	![items-navigation]({{site.url}}/images/item/items-navigation.png)
+	![items-navigation]({{site.url}}/images/navigation/items.png)
 
 3. Click on **New** button in the top right corner of the window.
 
-	![items-new]({{site.url}}/images/item/items-new.png)
+	![items-new]({{site.url}}/images/items/filter-new.png)
 
 4. Fill in item's **name**, **description** and **price** of the single unit of the item.
 
-	![item-create]({{site.url}}/images/item/item-create.png)
+	![item-create]({{site.url}}/images/items/new-modal.png)
 
 	> **Pro Tip:** These are the default information and you can change these for individual quote/invoice when adding.
 
