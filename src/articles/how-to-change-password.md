@@ -9,7 +9,11 @@ It's tough to come with a hard-to-guess password, but in case you come up with o
 
 2. Click on **Settings** >> **Profile** option from main navigation bar in the left side.
 
+	![password-navigation]({{site.url}}/images/navigation/settings.png)
+
 3. Scroll to the **Password** section.
+
+	![password-form]({{site.url}}/images/settings/password.png)
 
 4. Fill in your current password in the **Current Password** field.
 

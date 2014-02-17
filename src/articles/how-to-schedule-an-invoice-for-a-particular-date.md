@@ -9,11 +9,15 @@ You can schedule an invoice in advance, so that it can be created automatically 
 
 2. Click on the **+ Invoice** button from the Dashboard to start creating a new invoice.
 
+	![invoice-navigation]({{site.url}}/images/dashboard/dashboard.png)
+
 3. Fill in the details for the invoice, you'd like to the created. Just like you'd normally do when [creating an invoice]({{site.url}}/articles/how-to-create-an-invoice).
 
 4. Just before publishing, mark the checkbox as checked which says **Is recurring?**. Once checked, a small window underneath it will be revealed, through which you can schedule it.
 
 5. Now fill in the recurrence details as follows:
+
+	![invoice-recurrence-form]({{site.url}}/images/slips/recurrence.png)
 
 	1. In **Start** date, fill in the date on which you want it to be created.
 

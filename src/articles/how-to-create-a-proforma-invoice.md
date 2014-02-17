@@ -9,7 +9,7 @@ Proforma invoice is a document that you give to your customer that clearly state
 
 2. As you land on the dashboard with all sort of options around you, click on the **Slips** button which you will find just below the dashboard icon (the red G).
 
-    ![slips-navigation]({{site.url}}/images/slips/navigation.png)
+    ![slips-navigation]({{site.url}}/images/navigation/slips.png)
 
 3. At the top right corner the **New** button is what you are looking for in order to generate a proforma invoice.
 

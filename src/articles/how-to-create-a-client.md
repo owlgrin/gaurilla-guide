@@ -9,17 +9,17 @@ Clients are the people who would give you business. These are your customers.
 
 2. Click on the **People** >> **Clients** from the main navigation on the left.
 	
-	![clients-navigation]({{site.url}}/images/client/clients-navigation.png)
+	![clients-navigation]({{site.url}}/images/navigation/people.png)
 
 3. Click on the **New** at the top right corner.
 
-	![clients-new]({{site.url}}/images/client/clients-new.png)
+	![clients-new]({{site.url}}/images/people/client-filter-new.png)
 
 4. Now in the **New Client** pop up window, fill the **name** and other details like **address**, **city**, **state** and **PIN**.
 	
 	> **Pro Tip:** Only **Name** is required, rest all is optional.
 
-	![client-create]({{site.url}}/images/client/client-create.png)
+	![client-create]({{site.url}}/images/people/client-new-modal.png)
 
 5. If you want to add any contact associated with this particular client write its **name** and **phone**/ **email**. Then, click on **Add** button to associate it with this client.
 	
