@@ -1,9 +1,9 @@
 ---
-title: How to add journal transaction
-description: In chaos where to add a transaction! Make it journal transaction
+title: How to add a journal transaction
+description: The soul of accounting
 layout: article
 ---
-If in chaos where to add a transaction, in income or expense, then add it as a journal entry. 
+We understand how journal transactions can be a must-have for your business requirements. And Gaurilla have got your covered.
 
 1. Login into your Gaurilla account and set the workspace.
 
@@ -21,7 +21,7 @@ If in chaos where to add a transaction, in income or expense, then add it as a j
 
 		1. In **Account** field select the account in which the transaction will affect.
 
-		2. In **Description** field describe about the transaction. 
+		2. In **Description** field describe about the transaction. It is not required. Just a place to fill in more fine-tuned  description, if there's any.
 
 		3. Now fill the transaction amount for selected account either in **Debit** or **Credit** depending upon the transaction. 
 
@@ -29,4 +29,4 @@ If in chaos where to add a transaction, in income or expense, then add it as a j
 
 	4. Once done, click on **Save** button to add the journal entry.
 
-5. Added journal entry can be seen in the list of journal entires on the page in which we will be redirected.
+5. Added journal entry can be seen in the list of journal entires on the page in which you will be redirected.
