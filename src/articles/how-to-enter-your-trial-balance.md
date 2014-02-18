@@ -9,11 +9,17 @@ Gaurilla makes is easy to make the books ready to get started on the right note.
 
 2. Click on **Accounting** >> **Accounts** option from the main navigation bar on the left.
 
+	![accounts-navigation]({{site.url}}/images/navigation/accounting.png)
+
 3. You will be presented with all the accounts you have in your business. You may edit them or [add new accounts]({{site.url}}/articles/how-to-create-custom-accounts-categories).
 
 4. Once done with the accounts, click on **Balance** button adjacent to **New** button on same page and a **Balances** form will open.
 
+	![accounts-balances-navigation]({{site.url}}/images/accounting/accounts-balances-navigation.png)
+
 5. Now fill that **Balances** form as follows:
+
+	![account-balances]({{site.url}}/images/accounting/account-balances.png)
 
 	1. In **Description** field mention any kind of description related to entry you want.
 
