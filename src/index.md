@@ -56,6 +56,14 @@ layout: page
 
 ---
 
+### Accounting
+
+- [How to create custom accounts and categories]({{site.url}}/articles/how-to-create-custom-accounts-categories)
+- [How to add a journal transaction]({{site.url}}/articles/how-to-add-journal-transaction)
+- [How to enter your trial balance]({{site.url}}/articles/how-to-enter-your-trial-balance)
+
+---
+
 ### Reporting
 
 - [Client Report - who owes you how much]({{site.url}}/articles/how-to-generate-client-report)
