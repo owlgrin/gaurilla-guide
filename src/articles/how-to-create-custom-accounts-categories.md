@@ -1,9 +1,9 @@
 ---
-title: How to add a custom account and category
-description: Did not find the account or category you looking for? Why not create one
+title: How to create custom accounts and categories
+description: Better categorization results in better management in future. Be sure to make all required accounts.
 layout: article
 ---
-You can create a custom category or account of your choice of name. 
+You may create any number of custom accounts and categories as your requirements may change. Here's how to do it.
 
 1. Login into your Gaurilla account and set the workspace.
 
