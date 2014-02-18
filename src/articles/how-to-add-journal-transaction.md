@@ -9,9 +9,15 @@ We understand how journal transactions can be a must-have for your business requ
 
 2. Click on **Accounting** >> **Journals** option from the main navigation bar.
 
+	![journal-navigation]({{site.url}}/images/navigation/accounting.png)
+
 3. Click on the **New** button at the top right corner and a **Journal Entry** form will open.
 
+	![journal-new-navigation]({{site.url}}/images/accounting/journal-transactions-new-navigation.png)
+
 4. Now fill that form as follows:
+
+	![journal-transaction-new]({{site.url}}/images/accounting/journal-transaction-new.png)
 
 	1. In **Description** field mention about the journal entry to be done.
 
